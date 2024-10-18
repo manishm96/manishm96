@@ -4,7 +4,7 @@
   
 - 👨🏽‍🎓 Former grad student in Software Engineering at San Jose State University.
   
-- 🔭 I’m currently developing interactive browser extensions with React.js and TypeScript, and automation bots with Node.js, Typescript and Selenium, as part of my professional work.
+- 🔭 I’m currently developing interactive browser extensions with React.js, TypeScript and GraphQL, and automation bots with Node.js, Typescript and Selenium, as part of my professional work.
   
 - 🌱 I’m currently learning GraphQL and AWS services like Lamda, SQS and API Gateway.
 
