@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 - 👨🏽‍💻 I'm Manish Mapakshi, currently working as a Software Engineer intern at Alpha Nodus, Inc.
+  
 - 👨🏽‍🎓 Former grad student in Software Engineering at San Jose State University.
+  
 - 🔭 I’m currently developing interactive browser extensions with React.js and TypeScript, and automation bots with Node.js, Typescript and Selenium, as part of my professional work.
+  
 - 🌱 I’m currently learning GraphQL and AWS services like Lamda, SQS and API Gateway.
 
 <!--
