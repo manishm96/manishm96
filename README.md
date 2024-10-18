@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 I'm Manish Mapakshi, currently working as a Software Engineer intern at Alpha Nodus, Inc.
   
-- 🔭 I’m currently developing interactive browser extensions with React.js, TypeScript and GraphQL, and automation bots with Node.js, Typescript, Seleniumand REST API.
+- 🔭 I’m currently developing interactive browser extensions with React.js, TypeScript and GraphQL, and automation bots with Node.js, Typescript, Selenium and REST APIs.
   
 - 🌱 I’m currently learning GraphQL and AWS serverless services.
 
